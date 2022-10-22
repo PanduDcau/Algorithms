@@ -7,3 +7,6 @@ An algorithm is a step-by-step procedure that defines a set of instructions that
 
 # Pull Request :- 
 Name : Madhawa Samarasinghe. 
+
+# Pull Request
+Name : Dasith Jayanandana
